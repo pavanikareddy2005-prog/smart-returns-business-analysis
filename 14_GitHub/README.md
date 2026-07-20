@@ -18,4 +18,4 @@ fraud scoring, auto-refunds (<=2 days), and BI dashboards.
 BRD/FRS, Agile, SQL, Power BI, Wireframes, BPMN/UML, Testing/UAT.
 
 ## Author
-[Your Name] - Business Analyst
+N.Pavanika- Business Analyst
